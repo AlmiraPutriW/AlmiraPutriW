@@ -6,15 +6,6 @@ I am currently actively contributing as a participant in the Independent Cycle 7
 
 - 🔭 I am currently working on @dicodingacademy
 - 🌱 I am currently learning about front-end and back-end
-- ⚡ Fun fact i like money hahahaha
-
-
-<p align="left">
-<a href="https://github.com/AlmiraPutriW">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
 <!--
 **AlmiraPutriW/AlmiraPutriW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
